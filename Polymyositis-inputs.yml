@@ -1,0 +1,48 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/polymyositis-dermatomyositis---secondary.py
+inputModule3:
+  class: File
+  path: python/juvenile-polymyositis---secondary.py
+inputModule4:
+  class: File
+  path: python/polymyositis---secondary.py
+inputModule5:
+  class: File
+  path: python/neoplastic-polymyositis---secondary.py
+inputModule6:
+  class: File
+  path: python/polymyositis-organ---secondary.py
+inputModule7:
+  class: File
+  path: python/polymyositis-respiratory---secondary.py
+inputModule8:
+  class: File
+  path: python/myopathy-polymyositis---secondary.py
+inputModule9:
+  class: File
+  path: python/polymyositis-poikilodermatomyositis---secondary.py
+inputModule10:
+  class: File
+  path: python/polymyositis-sclerodermatomyositis---secondary.py
+inputModule11:
+  class: File
+  path: python/idiopathic-polymyositis---secondary.py
+inputModule12:
+  class: File
+  path: python/sarcoid-polymyositis---secondary.py
+inputModule13:
+  class: File
+  path: python/polymyositis-malignant---secondary.py
+inputModule14:
+  class: File
+  path: python/eosinophilic-polymyositis---secondary.py
+inputModule15:
+  class: File
+  path: python/polymyositis-autoimmune---secondary.py
+inputModule16:
+  class: File
+  path: python/output-cases.py
